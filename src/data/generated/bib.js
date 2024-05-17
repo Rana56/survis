@@ -1,15 +1,4 @@
 ﻿const generatedBibEntries = {
-    "burke_2003_hyperheuristics": {
-        "author": "Burke, Edmund and Kendall, Graham and Newall, Jim and Hart, Emma and Ross, Peter and Schulenburg, Sonia",
-        "doi": "10.1007/0-306-48056-5_16",
-        "journal": "International Series in Operations Research & Management Science",
-        "pages": "457-474",
-        "title": "Hyper-Heuristics: An Emerging Direction in Modern Search Technology",
-        "type": "article",
-        "urldate": "2023-01-28",
-        "volume": "57",
-        "year": "2003"
-    },
     "burke_2010_a": {
         "author": "Burke, Edmund and Hyde, Matthew and Kendall, Graham and Ochoa, Gabriela and Ozcan, Ender and Woodward, John",
         "doi": "10.1007/978-3-319-91086-4_14",
